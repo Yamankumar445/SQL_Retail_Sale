@@ -275,7 +275,7 @@ ORDER BY shift;
 
 ## 👤 Author
 
-**Yaman**  
+**Yaman Kumar**  
 Data Analyst | Building hands-on projects in SQL, Power BI & Excel  
 📂 [GitHub Portfolio](https://github.com/Yamankumar445) • 💼 [LinkedIn](www.linkedin.com/in/yaman-kumar-7a4b67260)
 
